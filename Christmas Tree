@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      body {
+  background: url("https://kottke.org/plus/misc/images/vt-winter-wonderland.jpg")no-repeat fixed center;
+}
+
+[class^="needles"] {
+  position: relative;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-color: transparent transparent #004511 transparent;
+  border-radius: 50%;
+}
+ 
+.needles1 {
+  margin-top: 228px;
+  margin-left: 450px;
+  border-width: 0 100px 70px 100px;
+}
+ 
+.needles2 { 
+  top: -20px; 
+  margin-left: 400px;
+  border-width: 0 150px 90px 150px;
+}
+ 
+.needles3 {
+  margin-left: 350px;
+  top: -40px; 
+  border-width: 0 200px 120px 200px;
+}
+.needles4 {
+  margin-left: 300px;
+  top: -70px; 
+  border-width: 0 250px 160px 250px;
+}
+ 
+.stub {
+  position: relative;
+  width: 60px;
+  height: 100px;
+  margin-left: 523px;
+  top: -73px;
+  background-color: #53350a;
+}
+.ornament {
+  position: relative;
+  background-color: #E3E915;
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+}
+[class^="ornament"] {
+  position: absolute;
+} 
+ 
+.ornamentRed {
+  position: relative;
+  background-color: #EC1515;
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+}
+[class^="ornamentRed"] {
+  position: absolute;
+} 
+ 
+.ornament1 {
+  top: 275px;
+  left: 475px;
+}
+ 
+.ornament2 {
+  top: 275px;
+  left: 630px;
+}
+ 
+.ornament3 {
+  top: 435px;
+  left: 395px;
+}
+ 
+.ornament4 {
+  top: 435px;
+  left: 707px;
+}
+ 
+.ornament5 {
+  top: 340px;
+  left: 670px;
+}
+ 
+.ornament6 {
+  top: 340px;
+  left: 435px;
+}
+.ornament7 {
+  top: 560px;
+  left: 355px;
+}
+.ornament8 {
+  top: 560px;
+  left: 747px;
+}
+ 
+.ornamentRed1 {
+  top: 350px;
+  left: 535px;
+}
+ 
+.ornamentRed2 {
+  top: 450px;
+  left: 485px;
+}
+ 
+.ornamentRed3 {
+  top: 270px;
+  left: 585px;
+}
+ 
+.ornamentRed4 {
+  top: 330px;
+  left: 620px;
+}
+ 
+.ornamentRed5 {
+  top: 410px;
+  left: 576px;
+}
+ 
+.ornamentRed6 {
+  top: 260px;
+  left: 515px;
+}
+ 
+.ornamentRed7 {
+  top: 400px;
+  left: 515px;
+}
+ 
+.ornamentRed8 {
+  top: 430px;
+  left: 625px;
+}
+.ornamentRed9 {
+  top: 530px;
+  left: 515px;
+}
+.ornamentRed10 {
+  top: 530px;
+  left: 425px;
+}
+.ornamentRed11 {
+  top: 510px;
+  left: 615px;
+}
+    </style>
+  </head>
+  <body>
+    <div class="needles1"></div>
+    <div class="needles2"></div>
+    <div class="needles3"></div>
+    <div class="needles4"></div>
+    <div class="stub"></div>
+    <div class="ornament1">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament2">
+      <div class="ornament"></div>
+    </div> 
+    <div class="ornament3">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament4">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament5">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament6">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament7">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornament8">
+      <div class="ornament"></div>
+    </div>
+    <div class="ornamentRed1">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed2">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed3">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed4">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed5">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed6">
+      <div class="ornamentRed"></div>
+    </div>
+     <div class="ornamentRed7">
+      <div class="ornamentRed"></div>
+    </div>
+     <div class="ornamentRed8">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed9">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed10">
+      <div class="ornamentRed"></div>
+    </div>
+    <div class="ornamentRed11">
+      <div class="ornamentRed"></div>
+    </div>
+  </body>  
+</html>
